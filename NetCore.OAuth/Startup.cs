@@ -15,6 +15,7 @@ namespace NetCore.OAuth
 {
     public class Startup
     {
+        //forked from luandnh/NetCore.OAuth - 10/04/2022.
         public Startup(IConfiguration configuration)
         {
             Configuration = configuration;
